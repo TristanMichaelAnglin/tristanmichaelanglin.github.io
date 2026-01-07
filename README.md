@@ -31,7 +31,7 @@ Capstone project focusing on combat systems, multiplayer networking, and mytholo
 <iframe
   width="800"
   height="450"
-  src="https://www.youtube.com/embed/VIDEO_ID"
+  src="https://www.youtube.com/embed/dsOIqnmBTb4"
   title="Blood & Lineage Gameplay Demo"
   frameborder="0"
   allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
@@ -39,7 +39,7 @@ Capstone project focusing on combat systems, multiplayer networking, and mytholo
 </iframe>
 
 <p>
-🔧 <b>Tech:</b> Unity, C#, Netcode for GameObjects<br>
-🎯 <b>Focus:</b> Combat feel, enemy AI, co-op synchronization
+🔧 <b>Tech:</b>Unreal Engine<br>
+🎯 <b>Focus:</b> Combat feel, Co-op synchronization
 </p>
 
