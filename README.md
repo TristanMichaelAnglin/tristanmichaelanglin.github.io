@@ -4,25 +4,29 @@
 
 - 🔭 **Currently developing _Blood & Lineage_**, a 1–4 player Greek-themed Musou RPG as my Capstone project  
 - 🌱 **Deepening my knowledge of network synchronization and server–client architecture** for real-time co-op gameplay  
-- 📫 **Contact:** tmanglin00@gmail.com  
 
 ---
 
 <h3 align="left">Connect with me</h3>
 <p align="left">
   <a href="https://github.com/TristanMichaelAnglin" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" height="30" width="40" />
+    <img align="center" src="...github.svg" height="30" width="40" />
   </a>
   <a href="https://linkedin.com/in/Tristan-Anglin" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
-  </a>
-  <a href="https://discord.gg/tristan_a" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" height="30" width="40" />
+    <img align="center" src="...linked-in-alt.svg" height="30" width="40" />
   </a>
   <a href="https://www.youtube.com/@TristanAnglin" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" height="30" width="40" />
+    <img align="center" src="...youtube.svg" height="30" width="40" />
+  </a>
+  <a href="https://discord.gg/tristan_a" target="_blank">
+    <img align="center" src="...discord.svg" height="30" width="40" />
   </a>
 </p>
+
+<p align="left">
+📫 <b>Email:</b> <a href="mailto:tmanglin00@gmail.com">tmanglin00@gmail.com</a>
+</p>
+
 
 
 ---
