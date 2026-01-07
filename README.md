@@ -1,5 +1,3 @@
-# Hi 👋, I'm Tristan Michael Anglin
-
 ### Game developer focused on combat systems & multiplayer experiences
 
 - 🔭 **Currently developing _Blood & Lineage_**, a 1–4 player Greek-themed Musou RPG as my Capstone project  
