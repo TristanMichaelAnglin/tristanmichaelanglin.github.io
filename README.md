@@ -25,7 +25,7 @@
 
 <p align="center"><b>Art & UI Design</b></p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=blender,threejs,photoshop,illustrator,au" />
+  <img src="https://skillicons.dev/icons?i=blender,photoshop,illustrator,au" />&nbsp;<img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/Autodesk_3ds_Max_Icon.svg" height="50" style="vertical-align:middle" />
 </p>
 
 <p align="center"><b>Development Tools</b></p>
