@@ -49,20 +49,20 @@ Currently, I'm developing **Blood & Lineage**, where I bridge complex backend da
 
 ### 📬 Let's Connect
 <p align="left">
-  <a href="https://linkedin.com/in/Tristan-Anglin" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="35" width="35" />
+  <a href="https://github.com/TristanMichaelAnglin" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" height="40" />
   </a>
-  <a href="https://github.com/TristanMichaelAnglin" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" height="35" width="35" />
+  <a href="https://linkedin.com/in/Tristan-Anglin" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
   </a>
-  <a href="https://www.youtube.com/@TristanAnglin" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" height="35" width="35" />
+  <a href="https://www.youtube.com/@TristanAnglin" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" height="40" />
   </a>
-  <a href="https://www.instagram.com/tristananglin_" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="35" width="35" />
+  <a href="https://www.instagram.com/tristananglin_" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" height="40" />
   </a>
-  <a href="https://discord.gg/tristan_a" target="blank">
-    <img src="https://skillicons.dev/icons?i=discord" height="35" width="35" />
+  <a href="https://discord.gg/tristan_a" target="_blank">
+    <img src="https://skillicons.dev/icons?i=discord" height="40" />
   </a>
 </p>
 
