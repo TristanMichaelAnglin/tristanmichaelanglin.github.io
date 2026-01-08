@@ -51,10 +51,9 @@
 
   <a href="https://www.autodesk.com/products/3ds-max/overview" target="_blank">
     <img
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/3dsmax/3dsmax-original.svg"
+      src="https://upload.wikimedia.org/wikipedia/commons/1/1e/Autodesk_3ds_Max_logo.png"
       alt="Autodesk 3ds Max"
-      height="40"
-      style="vertical-align: middle; margin-left: 8px;" />
+      height="40" />
   </a>
 </p>
 
