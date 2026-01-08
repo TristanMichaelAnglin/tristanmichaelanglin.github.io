@@ -7,21 +7,26 @@ Currently, I'm developing **Blood & Lineage**, where I bridge complex backend da
 
 ---
 
-### 🛠 Tech Stack
+<h3 align="center">🛠 Tech Stack</h3>
 
-**Engines & Languages**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=unreal,unity,cpp,cs,py" />
+<p align="center"><b>Engines & Languages</b></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=unreal,unity,cpp,cs,py,java" />
 </p>
 
-**Systems & Architecture**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,postgres,mysql,git" />
+<p align="center"><b>Systems & Architecture</b></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,postgres,mysql,git,cmake,visualstudio" />
 </p>
 
-**Art & UI Design**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=blender,photoshop,illustrator,3dsmax" />
+<p align="center"><b>Art & UI Design</b></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=blender,3dsmax,photoshop,illustrator,au,figma" />
+</p>
+
+<p align="center"><b>Development Tools</b></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=eclipse,postman,linux,windows" />
 </p>
 
 ---
