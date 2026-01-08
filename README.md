@@ -1,7 +1,4 @@
 <h1 align="center">Tristan Anglin</h1>
-<p align="center"><b>Game Systems & UI Developer | Multiplayer Experiences</b></p>
-
----
 
 <p align="center">
   <a href="https://github.com/TristanMichaelAnglin" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="35" /></a>&nbsp;
@@ -11,6 +8,8 @@
   <a href="https://www.youtube.com/@TristanAnglin" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" height="35" /></a>&nbsp;
   <a href="mailto:tmanglin00@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="35" /></a>
 </p>
+
+<p align="center"><b>Game Systems & UI Developer | Multiplayer Experiences</b></p>
 
 ---
 
