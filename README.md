@@ -46,9 +46,11 @@
 </p>
 
 <h4>Art & Content Tools</h4>
-<p>
-  <img src="https://skillicons.dev/icons?i=blender,3dsmax,photoshop,illustrator" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=blender,photoshop,illustrator" height="40" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/3dsmax/3dsmax-original.svg" alt="3ds Max" height="40" width="40" style="margin-left:10px;" />
 </p>
+
 
 
 <h4>Version Control</h4>
