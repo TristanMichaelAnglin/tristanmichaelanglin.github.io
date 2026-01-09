@@ -1,6 +1,7 @@
 <div align="center">
 
 <h1 style="font-size: 3em; margin-bottom: 0px;">Tristan Anglin</h1>
+
 <p style="font-size: 1.2em; margin-top: 5px;">
   <strong>Game Systems & UI Developer | Multiplayer Experiences</strong>
 </p>
@@ -16,24 +17,19 @@
   <a href="mailto:tmanglin00@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="35" /></a>
 </p>
 
----
-
 <p align="center"><b>Engines & Programming</b></p>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=unreal,unity,cpp,cs,py,java&theme=dark" />
 </p>
-
 <p align="center"><b>Workflow & Version Control</b></p>
 <p align="center">
   <img src="assets/Icons/JiraIcon.png" width="48" height="48" style="vertical-align: middle; border-radius: 10px; margin-right: 4px; transform: translateY(-21px);" alt="Jira" />
   <img src="https://skillicons.dev/icons?i=git,mysql,nodejs,cmake&theme=dark" />
 </p>
-
 <p align="center"><b>Development Environments</b></p>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=visualstudio,vscode,eclipse&theme=dark" />
 </p>
-
 <p align="center"><b>Art, Audio & UI Design</b></p>
 <p align="center">
   <img src="assets/Icons/3dsmaxIcon.png" width="48" height="48" style="vertical-align: middle; border-radius: 10px; margin-right: 4px; transform: translateY(-21px);" alt="3ds Max" />
