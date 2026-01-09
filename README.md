@@ -37,14 +37,14 @@
 
 ---
 
-### 🎮 Featured Project: Blood & Lineage
+### 2025-Current: Blood & Lineage
 Greek-themed 1–4 player Musou RPG | Developed by an 11-person team
 
 A high-action capstone project where I served as Lead Systems Developer. We utilized Jira for agile sprint management and GitHub for robust version control to coordinate a large-scale multidisciplinary team.
 
-<div align="center"> <a href="https://www.youtube.com/watch?v=dsOIqnmBTb4" target="_blank"> <img src="https://img.youtube.com/vi/dsOIqnmBTb4/0.jpg" alt="Blood & Lineage Gameplay" width="100%" style="border-radius: 10px;"> </a> <p><i>(Click image to watch gameplay trailer)</i></p> </div>
+<div align="center"> <a href="https://www.youtube.com/watch?v=dsOIqnmBTb4" target="_blank"> <img src="https://img.youtube.com/vi/dsOIqnmBTb4/0.jpg" alt="Blood & Lineage Gameplay" width="100%" style="border-radius: 10px;"> </a> <p><i>(Click image for gameplay trailer)</i></p> </div>
 
-🛠 My Core Contributions
+My Core Contributions
 Full UI/UX Framework: Architected and implemented the entire game UI using UMG, including the Main Menu, in-game HUD, and dynamic pause menus with real-time data binding.
 
 Lobby & Matchmaking System: Developed the networked lobby system allowing players to host, find, and join sessions seamlessly.
@@ -53,7 +53,7 @@ Networked Inventory & Interactions: Engineered a data-driven inventory system fr
 
 Core Networking: Implemented the majority of non-combat networked interactions, focusing on client-server RPCs for game state management and player data security.
 
-👥 Team Collaboration
+Team Collaboration
 As part of an 11-person studio environment, I integrated my systems with diverse modules developed by teammates, including:
 
 Procedural Level Generation and dynamic Minimap systems.
