@@ -97,6 +97,15 @@
 
 > **Project Overview:** A technical exercise in engine-level programming, built from the ground up using C++ and OpenGL. The project focused on efficient spatial partitioning and real-time path manipulation within a custom rendering pipeline.
 
+<div align="center">
+  <a href="https://www.youtube.com/watch?v=dsOIqnmBTb4" target="_blank">
+    <img src="https://img.youtube.com/vi/dsOIqnmBTb4/maxresdefault.jpg" 
+         alt="Blood & Lineage Gameplay" 
+         style="width: 95%; max-width: 800px; aspect-ratio: 16 / 9; object-fit: cover; border-radius: 12px; box-shadow: 0px 4px 20px rgba(0,0,0,0.4);">
+  </a>
+  <p style="margin-top: 12px;"><i>(Click to watch technical gameplay trailer)</i></p>
+</div>
+
 **Core Contributions**
 > **Custom OpenGL Engine:** Developed a lightweight 2D rendering engine using C++, implementing shader management, texture mapping, and a camera system to handle dynamic game scaling.
 
@@ -120,6 +129,15 @@
 
 > **Project Overview:** A solo-developed RPG built in Java focused on modular system design. Though an ongoing project, it features a complete architectural foundation for character state management and world exploration.
 
+<div align="center">
+  <a href="https://www.youtube.com/watch?v=dsOIqnmBTb4" target="_blank">
+    <img src="https://img.youtube.com/vi/dsOIqnmBTb4/maxresdefault.jpg" 
+         alt="Blood & Lineage Gameplay" 
+         style="width: 95%; max-width: 800px; aspect-ratio: 16 / 9; object-fit: cover; border-radius: 12px; box-shadow: 0px 4px 20px rgba(0,0,0,0.4);">
+  </a>
+  <p style="margin-top: 12px;"><i>(Click to watch technical gameplay trailer)</i></p>
+</div>
+
 ---
 
 <div style="display: flex; justify-content: space-between; align-items: flex-end;">
@@ -135,3 +153,12 @@
 </div>
 
 > **Project Overview:** A foundational project developed in Python to explore core game loops, difficulty scaling, and persistent progression systems.
+
+<div align="center">
+  <a href="https://www.youtube.com/watch?v=dsOIqnmBTb4" target="_blank">
+    <img src="https://img.youtube.com/vi/dsOIqnmBTb4/maxresdefault.jpg" 
+         alt="Blood & Lineage Gameplay" 
+         style="width: 95%; max-width: 800px; aspect-ratio: 16 / 9; object-fit: cover; border-radius: 12px; box-shadow: 0px 4px 20px rgba(0,0,0,0.4);">
+  </a>
+  <p style="margin-top: 12px;"><i>(Click to watch technical gameplay trailer)</i></p>
+</div>
