@@ -26,7 +26,7 @@
 <p align="center"><b>Systems, Architecture & Dev Tools</b></p>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=visualstudio,eclipse,cmake,nodejs,mysql,git" />
-    <img src="JiraIcon.png" width="48" height="48" style="vertical-align: middle; border-radius: 10px; margin-right: 4px; transform: translateY(-21px);" alt="3ds Max" />
+    <img src="JiraIcon.png" width="48" height="48" style="vertical-align: middle; border-radius: 10px; margin-left: 4px; margin-right: 4px; transform: translateY(-21px);" alt="3ds Max" />
 </p>
 
 <p align="center"><b>Art & UI Design</b></p>
