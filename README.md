@@ -51,7 +51,7 @@
   <p style="margin-top: 12px;"><i>(Click to watch technical gameplay trailer)</i></p>
 </div>
 
-### 🛠 Core Contributions
+### Core Contributions
 
 > **UI/UX Architecture:** Engineered a modular UI framework using **Unreal UMG**. This included a dynamic HUD and complex data-bound menu systems designed to scale across multiple resolutions and game states.
 
@@ -61,7 +61,7 @@
   
 > **Data-Driven Inventory:** Developed a custom inventory and loot framework from the ground up, prioritizing networked persistence and efficient server-client replication.
 
-### 👥 Team Integration & Collaboration
+### Team Integration & Collaboration
 
 > **Systems Integration:** Acted as the technical bridge between modules, successfully integrating my UI and Networking frameworks with teammate-developed **Procedural Level Generation** and **Minimap** systems.
 
