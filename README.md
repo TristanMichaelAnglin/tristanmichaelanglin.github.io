@@ -50,8 +50,8 @@
   </span>
 </div>
 <div style="display: flex; justify-content: space-between; margin-top: 5px;">
-  <b>Greek-themed 1–4 player Musou RPG</b>
-  <b>Lead Systems Developer</b>
+  <b>Greek Co-op Musou RPG</b>
+  <b>Lead Systems Dev</b>
 </div>
 
 > **Project Overview:** A high-action capstone project developed by an 11-person team. I led the systems architecture, utilizing **Jira** for agile sprint management and **GitHub** for version control to synchronize workflows across art, design, and programming departments.
@@ -92,7 +92,7 @@
 </div>
 <div style="display: flex; justify-content: space-between; margin-top: 5px;">
   <b>Grid-Based Strategy Tower Defense</b>
-  <b>Solo Developer</b>
+  <b>Solo Dev</b>
 </div>
 
 > **Project Overview:** A technical exercise in engine-level programming, built from the ground up using C++ and OpenGL. The project focused on efficient spatial partitioning and real-time path manipulation within a custom rendering pipeline.
@@ -115,7 +115,7 @@
 </div>
 <div style="display: flex; justify-content: space-between; margin-top: 5px;">
   <b>Tile-Based Fantasy RPG</b>
-  <b>Solo Developer</b>
+  <b>Solo Dev</b>
 </div>
 
 > **Project Overview:** A solo-developed RPG built in Java focused on modular system design. Though an ongoing project, it features a complete architectural foundation for character state management and world exploration.
@@ -131,7 +131,7 @@
 </div>
 <div style="display: flex; justify-content: space-between; margin-top: 5px;">
   <b>Survival Endless Scroller</b>
-  <b>Solo Developer</b>
+  <b>Solo Dev</b>
 </div>
 
 > **Project Overview:** A foundational project developed in Python to explore core game loops, difficulty scaling, and persistent progression systems.
