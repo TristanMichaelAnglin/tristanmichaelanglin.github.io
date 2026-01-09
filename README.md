@@ -25,7 +25,7 @@
 
 <p align="center"><b>Systems, Architecture & Dev Tools</b></p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=visualstudio,eclipse,git,cmake,nodejs,mysql" />
+  <img src="https://skillicons.dev/icons?i=visualstudio,eclipse,jira,git,cmake,nodejs,mysql" />
 </p>
 
 <p align="center"><b>Art & UI Design</b></p>
