@@ -1,3 +1,15 @@
+<style>
+  /* Hides the left sidebar/header entirely */
+  header { display: none !important; }
+  
+  /* Forces the main content to use the full width and removes the left margin */
+  section { 
+    max-width: 100% !important; 
+    margin-left: 0 !important; 
+    padding: 20px !important; 
+  }
+</style>
+
 <p align="center"><b>Game Systems & UI Developer | Multiplayer Experiences</b></p>
 
 <p align="center">
