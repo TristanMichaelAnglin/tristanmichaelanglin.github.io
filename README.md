@@ -50,7 +50,7 @@
   </span>
 </div>
 <div style="display: flex; justify-content: space-between; margin-top: 5px;">
-  <i>Greek-themed 1–4 player Musou RPG</i>
+  <b>Greek-themed 1–4 player Musou RPG</b>
   <b>Lead Systems Developer</b>
 </div>
 
