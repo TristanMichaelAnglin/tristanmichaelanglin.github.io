@@ -57,13 +57,13 @@
 </div>
 
 Core Contributions
-> Full UI/UX Framework: Architected and implemented the entire game UI using UMG, including the Main Menu, in-game HUD, and dynamic pause menus with real-time data binding.
+> Full UI/UX Framework | Architected and implemented the entire game UI using UMG, including the Main Menu, in-game HUD, and dynamic pause menus with real-time data binding.
 
-> Lobby & Matchmaking System: Developed the networked lobby system allowing players to host, find, and join sessions seamlessly.
+> Lobby & Matchmaking System | Developed the networked lobby system allowing players to host, find, and join sessions seamlessly.
 
-> Networked Inventory & Interactions: Engineered a data-driven inventory system from scratch, ensuring item persistence and server-authoritative syncing for 4-player co-op.
+> Networked Inventory & Interactions | Engineered a data-driven inventory system from scratch, ensuring item persistence and server-authoritative syncing for 4-player co-op.
 
-> Core Networking: Implemented the majority of non-combat networked interactions, focusing on client-server RPCs for game state management and player data security.
+> Core Networking | Implemented the majority of non-combat networked interactions, focusing on client-server RPCs for game state management and player data security.
 
 Team Collaboration
 > As part of an 11-person studio environment, I integrated my systems with diverse modules developed by teammates, including:
