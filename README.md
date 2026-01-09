@@ -54,8 +54,6 @@
   <b>Lead Systems Developer</b>
 </div>
 
----
-
 > **Project Overview:** A high-action capstone project developed by an 11-person team. I led the systems architecture, utilizing **Jira** for agile sprint management and **GitHub** for version control to synchronize workflows across art, design, and programming departments.
 
 <div align="center">
