@@ -38,20 +38,26 @@
 ---
 
 ### 🎮 Featured Project: Blood & Lineage
-**Greek-themed 1–4 player Musou RPG**
+Greek-themed 1–4 player Musou RPG | Developed by an 11-person team
 
-> *A Capstone project where I served as a lead systems developer, focusing on player progression and networked data.*
+A high-action capstone project where I served as Lead Systems Developer. We utilized Jira for agile sprint management and GitHub for robust version control to coordinate a large-scale multidisciplinary team.
 
-<div align="center">
-  <iframe 
-    width="100%" 
-    height="400" 
-    src="https://www.youtube.com/embed/dsOIqnmBTb4" 
-    frameborder="0" 
-    allowfullscreen>
-  </iframe>
-</div>
+<div align="center"> <a href="https://www.youtube.com/watch?v=dsOIqnmBTb4" target="_blank"> <img src="https://img.youtube.com/vi/dsOIqnmBTb4/0.jpg" alt="Blood & Lineage Gameplay" width="100%" style="border-radius: 10px;"> </a> <p><i>(Click image to watch gameplay trailer)</i></p> </div>
 
-* **Inventory & Loot System:** Designed a data-driven inventory system that handles item persistence and networked syncing for 4-player co-op.
-* **UI Framework:** Created a modular HUD and Menu system using UMG (Unreal Motion Graphics) that scales across different screen resolutions and handles real-time data updates.
-* **Networked Systems:** Implemented server-client architecture for non-combat systems, ensuring player stats and item pickups are synchronized and secure.
+🛠 My Core Contributions
+Full UI/UX Framework: Architected and implemented the entire game UI using UMG, including the Main Menu, in-game HUD, and dynamic pause menus with real-time data binding.
+
+Lobby & Matchmaking System: Developed the networked lobby system allowing players to host, find, and join sessions seamlessly.
+
+Networked Inventory & Interactions: Engineered a data-driven inventory system from scratch, ensuring item persistence and server-authoritative syncing for 4-player co-op.
+
+Core Networking: Implemented the majority of non-combat networked interactions, focusing on client-server RPCs for game state management and player data security.
+
+👥 Team Collaboration
+As part of an 11-person studio environment, I integrated my systems with diverse modules developed by teammates, including:
+
+Procedural Level Generation and dynamic Minimap systems.
+
+Complex Ability Frameworks and character combat logic.
+
+Managed cross-departmental tasks via Jira to ensure UI assets from artists were correctly implemented into the functional code.
