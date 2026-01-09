@@ -95,7 +95,7 @@
   <b>Solo Developer</b>
 </div>
 
-> Project Overview: A technical exercise in engine-level programming, built from the ground up using C++ and OpenGL. The project focused on efficient spatial partitioning and real-time path manipulation within a custom rendering pipeline.
+> **Project Overview:** A technical exercise in engine-level programming, built from the ground up using C++ and OpenGL. The project focused on efficient spatial partitioning and real-time path manipulation within a custom rendering pipeline.
 
 **Core Contributions**
 > **Custom OpenGL Engine:** Developed a lightweight 2D rendering engine using C++, implementing shader management, texture mapping, and a camera system to handle dynamic game scaling.
@@ -103,3 +103,35 @@
 > **Dynamic Pathfinding:** Engineered a tile-based grid system utilizing the A Search Algorithm*, allowing enemies to recalculate paths in real-time as the player places or removes walls and towers.
 
 > **Grid & Placement Logic:** Built a robust snapping and validation system for player-built structures, ensuring towers and obstacles interact correctly with the navigation mesh and enemy hitboxes.
+
+---
+
+<div style="display: flex; justify-content: space-between; align-items: flex-end;">
+  <span style="font-size: 1.6em; font-weight: bold;">Tile-Based RPG</span>
+  <span>
+    <img src="https://skillicons.dev/icons?i=java&theme=dark" width="25" align="absbottom" /> 
+    <b style="font-size: 1.1em;">2023</b>
+  </span>
+</div>
+<div style="display: flex; justify-content: space-between; margin-top: 5px;">
+  <b>Tile-Based Fantasy RPG</b>
+  <b>Solo Developer</b>
+</div>
+
+> **Project Overview:** A solo-developed RPG built in Java focused on modular system design. Though an ongoing project, it features a complete architectural foundation for character state management and world exploration.
+
+---
+
+<div style="display: flex; justify-content: space-between; align-items: flex-end;">
+  <span style="font-size: 1.6em; font-weight: bold;">Survival Scroller</span>
+  <span>
+    <img src="https://skillicons.dev/icons?i=py&theme=dark" width="25" align="absbottom" /> 
+    <b style="font-size: 1.1em;">2016-2018</b>
+  </span>
+</div>
+<div style="display: flex; justify-content: space-between; margin-top: 5px;">
+  <b>Survival Endless Scroller</b>
+  <b>Solo Developer</b>
+</div>
+
+> **Project Overview:** A foundational project developed in Python to explore core game loops, difficulty scaling, and persistent progression systems.
