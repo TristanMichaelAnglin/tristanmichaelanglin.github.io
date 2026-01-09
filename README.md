@@ -1,16 +1,6 @@
-<style>
-  /* Hides the left sidebar/header entirely */
-  header { display: none !important; }
-  
-  /* Forces the main content to use the full width and removes the left margin */
-  section { 
-    max-width: 100% !important; 
-    margin-left: 0 !important; 
-    padding: 20px !important; 
-  }
-</style>
-
-<p align="center"><b>Game Systems & UI Developer | Multiplayer Experiences</b></p>
+<div align="center">
+# Tristan Anglin
+**Game Systems & UI Developer | Multiplayer Experiences**
 
 <p align="center">
   <a href="https://github.com/TristanMichaelAnglin" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="35" /></a>&nbsp;
