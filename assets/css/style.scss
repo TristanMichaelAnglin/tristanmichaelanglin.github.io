@@ -17,17 +17,28 @@ html, body {
 }
 
 // Fix Headers
-h1, h2, h3, h4, h5, h6 {
-  color: #f0f6fc !important;
+/* Force White Text and Light Grey Body */
+body {
+  background-color: #0d1117 !important;
+  color: #e6edf3 !important; /* Brighter off-white for better readability */
 }
 
-// Fix Blockquotes (your indented sections)
+/* Make all Headers Bright White */
+h1, h2, h3, h4, h5, h6, strong {
+  color: #ffffff !important;
+}
+
+/* Fix the Blockquote Text (The indented parts in your screenshot) */
 blockquote {
   background-color: #161b22 !important;
   border-left: 0.3em solid #30363d !important;
-  color: #8b949e !important;
+  color: #d1d7dd !important; /* Light grey for the description text */
   padding: 15px !important;
-  border-radius: 6px;
+}
+
+/* Ensure the bold "UI/UX Architecture", etc. stands out */
+blockquote strong {
+  color: #58a6ff !important; /* A soft blue to make the category "pop" */
 }
 
 // Fix Links
