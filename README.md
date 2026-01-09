@@ -144,7 +144,7 @@
   <span style="font-size: 1.6em; font-weight: bold;">Hit and Run</span>
   <span>
     <img src="https://skillicons.dev/icons?i=py&theme=dark" width="25" align="absbottom" /> 
-    <b style="font-size: 1.1em;">2016-2018</b>
+    <b style="font-size: 1.1em;">2016</b>
   </span>
 </div>
 <div style="display: flex; justify-content: space-between; margin-top: 5px;">
