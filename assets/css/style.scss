@@ -2,13 +2,14 @@
 ---
 @import "{{ site.theme }}";
 
-/* 1. Global Page Reset & Text Containers */
-html, body, p, li, span, div {
+/* 1. Global Reset & Main Background */
+html, body, p, li, span, div, em, i {
   background-color: #0d1117 !important;
-  color: #f0f6fc !important; /* Extremely bright off-white */
+  color: #f0f6fc !important; /* Bright off-white */
+  opacity: 1 !important;    /* Force full visibility */
 }
 
-/* 2. Main Layout Containers */
+/* 2. Containers */
 .container-lg, .wrapper, section {
   background-color: #0d1117 !important;
   color: #f0f6fc !important;
@@ -25,16 +26,19 @@ h1, h2, h3, h4, h5, h6,
 h1 *, h2 *, h3 *, 
 .project-name, .project-tagline {
   color: #ffffff !important;
-  border-bottom-color: #30363d !important;
+  opacity: 1 !important;
 }
 
-/* 4. Blockquotes (The Case Study Sections) */
-/* This specifically targets the text inside the blockquotes */
+/* 4. Blockquotes (Case Study Sections) - Neutral Styling */
 blockquote, 
 blockquote p, 
-blockquote li {
+blockquote li, 
+blockquote em, 
+blockquote i {
   background-color: #161b22 !important;
-  color: #ffffff !important; /* Pure white for maximum contrast */
+  color: #ffffff !important; /* Pure white for internal text */
+  opacity: 1 !important;
+  font-style: normal !important; /* Removes italics if they are making it harder to read */
 }
 
 blockquote {
@@ -44,23 +48,20 @@ blockquote {
   margin: 1em 0 !important;
 }
 
-/* 5. Blue Highlights for Labels */
+/* 5. Neutral Labels (Replaces the Blue) */
 blockquote strong, 
 blockquote b,
-strong {
-  color: #58a6ff !important; 
-  font-weight: 600 !important;
+strong, b {
+  color: #ffffff !important; 
+  font-weight: 700 !important;
+  text-decoration: underline !important; 
+  text-decoration-color: #30363d !important; /* Subtle neutral underline instead of color */
 }
 
 /* 6. Interaction & Links */
 a {
   color: #58a6ff !important;
   text-decoration: none;
-}
-
-a:hover {
-  text-decoration: underline;
-  color: #79c0ff !important;
 }
 
 /* 7. Hide Theme Sidebar/Header */
@@ -71,6 +72,9 @@ header {
 /* 8. Horizontal Rules */
 hr {
   background-color: #30363d !important;
+  height: 1px !important;
+  border: none !important;
+}important;
   height: 1px !important;
   border: none !important;
 }
