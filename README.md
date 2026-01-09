@@ -23,7 +23,7 @@
 
 <p align="center"><b>Art & UI Design</b></p>
 <p align="center">
-  <img src="3dsmaxIcon.png" width="46" height="46" style="vertical-align: middle; border-radius: 10px; margin-right: 14px; transform: translateY(-7px);" alt="3ds Max" />
+  <img src="3dsmaxIcon.png" width="46" height="46" style="vertical-align: middle; border-radius: 10px; margin-right: 6px; transform: translateY(-12px);" alt="3ds Max" />
   <img src="https://skillicons.dev/icons?i=blender,photoshop,illustrator,pr,au" />
 </p>
 
