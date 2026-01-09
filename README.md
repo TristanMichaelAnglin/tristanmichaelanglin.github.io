@@ -1,6 +1,9 @@
 <div align="center">
-# Tristan Anglin
-**Game Systems & UI Developer | Multiplayer Experiences**
+
+<h1 style="font-size: 3em; margin-bottom: 0px;">Tristan Anglin</h1>
+<p style="font-size: 1.2em; margin-top: 5px;">
+  <strong>Game Systems & UI Developer | Multiplayer Experiences</strong>
+</p>
 
 <p align="center">
   <a href="https://github.com/TristanMichaelAnglin" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="35" /></a>&nbsp;
