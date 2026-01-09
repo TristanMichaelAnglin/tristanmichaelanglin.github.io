@@ -42,7 +42,19 @@
 
 > A high-action capstone project where I served as Lead Systems Developer. We utilized Jira for agile sprint management and GitHub for robust version control to coordinate a large-scale multidisciplinary team.
 
-<div align="center"> <a href="https://www.youtube.com/watch?v=dsOIqnmBTb4" target="_blank"> <img src="https://img.youtube.com/vi/dsOIqnmBTb4/0.jpg" alt="Blood & Lineage Gameplay" width="100%" style="border-radius: 10px;"> </a> <p><i>(Click image for gameplay trailer)</i></p> </div>
+<div align="center">
+  <a href="https://www.youtube.com/watch?v=dsOIqnmBTb4" target="_blank">
+    <img src="https://img.youtube.com/vi/dsOIqnmBTb4/maxresdefault.jpg" 
+         alt="Blood & Lineage Gameplay" 
+         style="width: 90%; 
+                max-width: 800px; 
+                aspect-ratio: 16 / 9; 
+                object-fit: cover; 
+                border-radius: 12px; 
+                box-shadow: 0px 4px 20px rgba(0,0,0,0.3);">
+  </a>
+  <p style="margin-top: 10px;"><i>(Click to watch gameplay trailer)</i></p>
+</div>
 
 Core Contributions
 > Full UI/UX Framework: Architected and implemented the entire game UI using UMG, including the Main Menu, in-game HUD, and dynamic pause menus with real-time data binding.
