@@ -1,0 +1,54 @@
+---
+---
+@import "{{ site.theme }}";
+
+// Force Dark Mode on the entire page
+html, body {
+  background-color: #0d1117 !important;
+  color: #c9d1d9 !important;
+}
+
+// Fix the main content container
+.container-lg, .wrapper {
+  background-color: #0d1117 !important;
+  color: #c9d1d9 !important;
+  box-shadow: none !important;
+  border: none !important;
+}
+
+// Fix Headers
+h1, h2, h3, h4, h5, h6 {
+  color: #f0f6fc !important;
+}
+
+// Fix Blockquotes (your indented sections)
+blockquote {
+  background-color: #161b22 !important;
+  border-left: 0.3em solid #30363d !important;
+  color: #8b949e !important;
+  padding: 15px !important;
+  border-radius: 6px;
+}
+
+// Fix Links
+a {
+  color: #58a6ff !important;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+// Hide the default header/sidebar
+header {
+  display: none !important;
+}
+
+// Ensure the main section takes up full width now that sidebar is gone
+section {
+  width: 100% !important;
+  max-width: 900px !important;
+  margin: 0 auto !important;
+  float: none !important;
+}
