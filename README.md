@@ -38,38 +38,28 @@
 ---
 
 ## 2025-Current: Blood & Lineage
-> Greek-themed 1–4 player Musou RPG | Developed by an 11-person team
+**Greek-themed 1–4 player Musou RPG** | *Lead Systems Developer*
 
-> A high-action capstone project where I served as Lead Systems Developer. We utilized Jira for agile sprint management and GitHub for robust version control to coordinate a large-scale multidisciplinary team.
+> A high-action capstone project developed by an 11-person team. We utilized **Jira** for agile sprint management and **GitHub** for version control to coordinate across art, design, and programming departments.
 
 <div align="center">
   <a href="https://www.youtube.com/watch?v=dsOIqnmBTb4" target="_blank">
     <img src="https://img.youtube.com/vi/dsOIqnmBTb4/maxresdefault.jpg" 
          alt="Blood & Lineage Gameplay" 
-         style="width: 90%; 
-                max-width: 800px; 
-                aspect-ratio: 16 / 9; 
-                object-fit: cover; 
-                border-radius: 12px; 
-                box-shadow: 0px 4px 20px rgba(0,0,0,0.3);">
+         style="width: 90%; max-width: 800px; aspect-ratio: 16 / 9; object-fit: cover; border-radius: 12px; box-shadow: 0px 4px 20px rgba(0,0,0,0.3);">
   </a>
   <p style="margin-top: 10px;"><i>(Click to watch gameplay trailer)</i></p>
 </div>
 
 ### Core Contributions
-> UI/UX | Architected and implemented the entire game UI using UMG, including the Main Menu, in-game HUD, and dynamic pause menus with real-time data binding.
 
-> Networking | Implemented the majority of non-combat networked interactions, focusing on client-server RPCs for game state management and player data security.
-
-> Lobby System | Developed the networked lobby system allowing players to host, find, and join sessions seamlessly.
-
-> Networked Inventory & Interactions | Engineered a data-driven inventory system from scratch, ensuring item persistence and server-authoritative syncing for 4-player co-op.
+* **UI/UX Architecture:** Architected the entire game UI using **UMG**, featuring a dynamic HUD and data-bound menus that respond to real-time gameplay states.
+* **Networked Systems:** Implemented server-authoritative RPCs for game state management, ensuring player data security and smooth non-combat interactions.
+* **Lobby & Session Management:** Developed a robust networked lobby system for hosting and joining 4-player cooperative sessions.
+* **Data-Driven Inventory:** Engineered a custom inventory system from scratch, focusing on networked item persistence and server-client synchronization.
 
 ### Team Collaboration
-> As part of an 11-person studio environment, I integrated my systems with diverse modules developed by teammates, including:
-
-> Procedural Level Generation and dynamic Minimap systems.
-
-> Complex Ability Frameworks and character combat logic.
-
-> Managed cross-departmental tasks via Jira to ensure UI assets from artists were correctly implemented into the functional code.
+In an 11-person studio environment, I acted as the "glue" between systems, integrating my frameworks with:
+* **Procedural Level Generation** and dynamic **Minimap** systems.
+* **Complex Ability Frameworks** and character combat logic.
+* **Production Pipeline:** Used Jira to track and implement UI assets from the art team, ensuring technical requirements were met.
