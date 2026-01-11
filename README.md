@@ -151,7 +151,7 @@
 > **Project Overview:** A foundational project developed in Python to explore core game loops, difficulty scaling, and persistent progression systems.
 
 <div align="center">
-  <a href="https://www.youtube.com/watch?v=dsOIqnmBTb4" target="_blank">
+  <a href="https://www.youtube.com/watch?v=FSjgXKFcKIo" target="_blank">
     <img src="https://img.youtube.com/vi/FSjgXKFcKIo/maxresdefault.jpg" 
          alt="Blood & Lineage Gameplay" 
          style="width: 95%; max-width: 800px; aspect-ratio: 16 / 9; object-fit: cover; border-radius: 12px; box-shadow: 0px 4px 20px rgba(0,0,0,0.4);">
