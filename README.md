@@ -152,7 +152,7 @@
 
 <div align="center">
   <a href="https://www.youtube.com/watch?v=dsOIqnmBTb4" target="_blank">
-    <img src="https://img.youtube.com/vi/dsOIqnmBTb4/maxresdefault.jpg" 
+    <img src="https://img.youtube.com/vi/FSjgXKFcKIo/maxresdefault.jpg" 
          alt="Blood & Lineage Gameplay" 
          style="width: 95%; max-width: 800px; aspect-ratio: 16 / 9; object-fit: cover; border-radius: 12px; box-shadow: 0px 4px 20px rgba(0,0,0,0.4);">
   </a>
