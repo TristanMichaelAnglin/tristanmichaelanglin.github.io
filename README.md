@@ -137,6 +137,34 @@
 ---
 
 <div style="display: flex; justify-content: space-between; align-items: flex-end;">
+  <span style="font-size: 1.6em; font-weight: bold;">Dungeon Crawler</span>
+  <span>
+    <img src="https://skillicons.dev/icons?i=py&theme=dark" width="25" align="absbottom" /> 
+    <b style="font-size: 1.2em;">2017</b>
+  </span>
+</div>
+<div style="display: flex; justify-content: space-between; margin-top: 5px;">
+  <b>2D Dungeon Crawler RPG</b>
+  <b>Solo Dev</b>
+</div>
+
+> **Project Overview:** 
+
+<div align="center">
+  <a href="https://www.youtube.com/watch?v=FSjgXKFcKIo" target="_blank">
+    <img src="https://img.youtube.com/vi/FSjgXKFcKIo/maxresdefault.jpg" 
+         alt="Blood & Lineage Gameplay" 
+         style="width: 95%; max-width: 800px; aspect-ratio: 16 / 9; object-fit: cover; border-radius: 12px; box-shadow: 0px 4px 20px rgba(0,0,0,0.4);">
+  </a>
+  <p style="margin-top: 12px;"><i>(Click to watch technical gameplay trailer)</i></p>
+</div>
+
+**Core Contributions**
+> 
+
+---
+
+<div style="display: flex; justify-content: space-between; align-items: flex-end;">
   <span style="font-size: 1.6em; font-weight: bold;">Hit & Run</span>
   <span>
     <img src="https://skillicons.dev/icons?i=py&theme=dark" width="25" align="absbottom" /> 
