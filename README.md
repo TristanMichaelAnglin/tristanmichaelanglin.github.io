@@ -23,7 +23,7 @@
 </p>
 <p align="center"><b>Workflow & Version Control</b></p>
 <p align="center">
-  <img src="assets/Icons/JiraIcon.png" width="48" height="48" style="vertical-align: middle; border-radius: 10px; margin-right: 4px; transform: translateY(-21px);" alt="Jira" />
+  <img src="assets/Icons/JiraIcon.png" width="48" height="48" style="vertical-align: middle; border-radius: 10px; margin-right: 4px; transform: translateY(-20px);" alt="Jira" />
   <img src="https://skillicons.dev/icons?i=git,mysql,nodejs,cmake&theme=dark" />
 </p>
 <p align="center"><b>Development Environments</b></p>
@@ -32,7 +32,7 @@
 </p>
 <p align="center"><b>Art, Audio & UI Design</b></p>
 <p align="center">
-  <img src="assets/Icons/3dsmaxIcon.png" width="48" height="48" style="vertical-align: middle; border-radius: 10px; margin-right: 4px; transform: translateY(-21px);" alt="3ds Max" />
+  <img src="assets/Icons/3dsmaxIcon.png" width="48" height="48" style="vertical-align: middle; border-radius: 10px; margin-right: 4px; transform: translateY(-20px);" alt="3ds Max" />
   <img src="https://skillicons.dev/icons?i=blender,photoshop,illustrator,pr,au&theme=dark" />
 </p>
 
