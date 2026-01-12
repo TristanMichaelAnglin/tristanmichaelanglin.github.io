@@ -153,7 +153,7 @@
   <b>Solo Dev</b>
 </div>
 
-> **Project Overview:** 
+> **Project Overview:** This project represents my first deep dive into the RPG genre and complex system architecture. Developed entirely on an iPad, this was an ambitious leap from my previous work, driven by a passion for dungeon crawlers. While the game remains an unfinished prototype, it was the first time I wrestled with—and successfully implemented—interlocking systems like inventory management, class-based stats, and enemy AI. It stands as a proud milestone where my passion for the genre pushed me to teach myself more advanced programming logic.
 
 <div align="center">
   <a href="https://www.youtube.com/watch?v=FSjgXKFcKIo" target="_blank">
@@ -165,7 +165,13 @@
 </div>
 
 **Core Contributions**
-> 
+> **RPG Systems Architecture:** Designed and implemented a class selection scene featuring 8 unique character classes, each with distinct starting attributes.
+
+> **Combat & Enemy AI:** Developed a real-time combat system where enemies utilize homing logic to track and engage the player with 8-directional movement.
+
+> **Loot & Progression Logic:** Scripted a reward system where defeated enemies trigger XP, gold, and item drops, feeding into a persistent inventory and leveling system.
+
+> **UI/UX Prototyping:** Built a multi-scene menu flow, including a dungeon selection interface and a functional inventory management screen. 
 
 ---
 
@@ -186,7 +192,7 @@
 <div align="center">
   <a href="https://www.youtube.com/watch?v=FSjgXKFcKIo" target="_blank">
     <img src="https://img.youtube.com/vi/FSjgXKFcKIo/maxresdefault.jpg" 
-         alt="Blood & Lineage Gameplay" 
+         alt="Hit & Run Gameplay" 
          style="width: 95%; max-width: 800px; aspect-ratio: 16 / 9; object-fit: cover; border-radius: 12px; box-shadow: 0px 4px 20px rgba(0,0,0,0.4);">
   </a>
   <p style="margin-top: 12px;"><i>(Click to watch technical gameplay trailer)</i></p>
