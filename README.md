@@ -187,7 +187,7 @@
   <b>Solo Dev</b>
 </div>
 
-> **Project Overview:** Hit & Run is a Python-based survival game developed on the iPad, designed to explore the fundamentals of game loops, difficulty scaling, and persistent progression systems. Initially conceived as a scrolling game, the project evolved into a stationary survival challenge where players must fend off waves of homing enemies to achieve the highest possible round.
+> **Project Overview:** As my first step into game development, Hit & Run was built in Python on the iPad to explore the core architecture of a functional game. What began as a simple scrolling concept evolved into a sophisticated wave-based survival challenge. This project served as my primary classroom for learning game loops, difficulty scaling, and persistent progression systems—foundational concepts that have informed every project I’ve built since.
 
 <div align="center">
   <a href="https://www.youtube.com/watch?v=FSjgXKFcKIo" target="_blank">
