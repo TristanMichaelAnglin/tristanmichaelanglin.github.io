@@ -99,8 +99,8 @@
 > **Project Overview:** A technical exercise in engine-level programming, built from the ground up using C++ and OpenGL. The project focused on efficient spatial partitioning and real-time path manipulation within a custom rendering pipeline.
 
 <div align="center">
-  <a href="https://www.youtube.com/watch?v=dsOIqnmBTb4" target="_blank">
-    <img src="https://img.youtube.com/vi/dsOIqnmBTb4/maxresdefault.jpg" 
+  <a href="https://www.youtube.com/watch?v=LynIVupNO2c" target="_blank">
+    <img src="https://img.youtube.com/vi/LynIVupNO2c/maxresdefault.jpg" 
          alt="Blood & Lineage Gameplay" 
          style="width: 95%; max-width: 800px; aspect-ratio: 16 / 9; object-fit: cover; border-radius: 12px; box-shadow: 0px 4px 20px rgba(0,0,0,0.4);">
   </a>
