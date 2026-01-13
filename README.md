@@ -20,8 +20,6 @@
 ---
 
 <a name="about"></a>
-<div style="font-size: 1.25em; font-weight: bold; margin-bottom: 8px;">About Me</div>
-
 <div style="background: #161b22; padding: 10px 15px; border-radius: 8px; border-left: 5px solid #a5472d; margin-bottom: 8px;">
 Games are my foundation. I grew up in a "game family" with a collection of over 300 board games—an environment that gave me a deep, intuitive understanding of mechanics and balance long before I wrote my first line of code.
 </div>
