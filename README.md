@@ -128,16 +128,25 @@
   <b>Solo Dev</b>
 </div>
 
-> **Project Overview:** A solo-developed RPG built in Java focused on modular system design. Though an ongoing project, it features a complete architectural foundation for character state management and world exploration.
+> **Project Overview:** Your Dark Side is built from the ground up in Java to explore modular system architecture. This project serves as a comprehensive technical playground for implementing the core pillars of the RPG genre, from complex state management and A* pathfinding to integrated merchant economies and scalable ability frameworks.
 
 <div align="center">
-  <a href="https://www.youtube.com/watch?v=dsOIqnmBTb4" target="_blank">
-    <img src="https://img.youtube.com/vi/dsOIqnmBTb4/maxresdefault.jpg" 
+  <a href="https://www.youtube.com/watch?v=8z6vDdhrYUA" target="_blank">
+    <img src="https://img.youtube.com/vi/8z6vDdhrYUA/maxresdefault.jpg" 
          alt="Blood & Lineage Gameplay" 
          style="width: 95%; max-width: 800px; aspect-ratio: 16 / 9; object-fit: cover; border-radius: 12px; box-shadow: 0px 4px 20px rgba(0,0,0,0.4);">
   </a>
   <p style="margin-top: 12px;"><i>(Click to watch gameplay trailer)</i></p>
 </div>
+
+**Core Contributions**
+> **Modular Class Framework:** Engineered a multi-class selection system that serves as the foundation for character state management and attribute scaling.
+
+> **Inventory & Economy Logic:** Developed a robust inventory system and NPC interaction framework supporting merchant economies, including item valuation and buying/selling logic.
+
+> **A* Pathfinding Implementation:** Integrated advanced pathfinding algorithms for enemy AI to ensure intelligent navigation through complex tile-based environments.
+
+> **Spell Framework:** Designed an extensible spell and ability system architecture, allowing for easy integration of new combat mechanics and visual effects.
 
 ---
 
