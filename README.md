@@ -20,11 +20,19 @@
 ---
 
 <a name="about"></a>
-> Games are my foundation. I grew up in a "game family" with a collection of over 300 board games—an environment that gave me a deep, intuitive understanding of mechanics and balance long before I wrote my first line of code.
+<div style="font-size: 1.25em; font-weight: bold; margin-bottom: 8px;">About Me</div>
 
-> That journey began in high school, where I built my first games in Python on an iPad. I eventually taught myself Java to develop Your Dark Side while studying Computer Science and Engineering, but I soon realized my true calling wasn't just in general engineering—it was in the technical architecture and creative heart of game design.
+<div style="background: #161b22; padding: 10px 15px; border-radius: 8px; border-left: 5px solid #a5472d; margin-bottom: 8px;">
+Games are my foundation. I grew up in a "game family" with a collection of over 300 board games—an environment that gave me a deep, intuitive understanding of mechanics and balance long before I wrote my first line of code.
+</div>
 
-> Since shifting my focus entirely to Game Development in 2023, I’ve maintained a 3.85 GPA and dedicated myself to building a portfolio centered on engaging gameplay loops and persistent progression systems.
+<div style="background: #161b22; padding: 10px 15px; border-radius: 8px; border-left: 5px solid #a5472d; margin-bottom: 8px;">
+That journey began in high school, where I built my first games in Python on an iPad. I eventually taught myself Java to develop Your Dark Side while studying Computer Science and Engineering, but I soon realized my true calling wasn't just in general engineering—it was in the technical architecture and creative heart of game design.
+</div>
+
+<div style="background: #161b22; padding: 10px 15px; border-radius: 8px; border-left: 5px solid #a5472d; margin-bottom: 8px;">
+Since shifting my focus entirely to Game Development in 2023, I’ve maintained a 3.85 GPA and dedicated myself to building a portfolio centered on engaging gameplay loops and persistent progression systems.
+</div>
 
 <a name="skills"></a>
 <p align="center"><b>Engines & Programming</b></p>
