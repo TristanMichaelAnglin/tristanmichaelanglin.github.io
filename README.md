@@ -45,7 +45,7 @@ Since shifting my focus entirely to Game Development in 2023, I’ve maintained 
 
 <p align="center"><b>Workflow & Version Control</b></p>
 <p align="center">
-  <img src="assets/Icons/JiraIcon.png" width="48" height="48" style="vertical-align: middle; border-radius: 10px; margin-right: 1px; transform: translateY(-20px);" title="Jira" alt="Jira" />
+  <img src="assets/Icons/JiraIcon.png" width="48" height="48" style="vertical-align: middle; border-radius: 10px; margin-right: 1.5px; transform: translateY(-20px);" title="Jira" alt="Jira" />
   <img src="https://skillicons.dev/icons?i=git&theme=dark" title="Git" alt="Git" height="48" />
   <img src="https://skillicons.dev/icons?i=mysql&theme=dark" title="MySQL" alt="MySQL" height="48" />
   <img src="https://skillicons.dev/icons?i=nodejs&theme=dark" title="Node.js" alt="Node.js" height="48" />
@@ -61,7 +61,7 @@ Since shifting my focus entirely to Game Development in 2023, I’ve maintained 
 
 <p align="center"><b>Art, Audio & UI Design</b></p>
 <p align="center">
-  <img src="assets/Icons/3dsmaxIcon.png" width="48" height="48" style="vertical-align: middle; border-radius: 10px; margin-right: 1px; transform: translateY(-20px);" title="3ds Max" alt="3ds Max" />
+  <img src="assets/Icons/3dsmaxIcon.png" width="48" height="48" style="vertical-align: middle; border-radius: 10px; margin-right: 1.5px; transform: translateY(-20px);" title="3ds Max" alt="3ds Max" />
   <img src="https://skillicons.dev/icons?i=blender&theme=dark" title="Blender" alt="Blender" height="48" />
   <img src="https://skillicons.dev/icons?i=photoshop&theme=dark" title="Adobe Photoshop" alt="Adobe Photoshop" height="48" />
   <img src="https://skillicons.dev/icons?i=illustrator&theme=dark" title="Adobe Illustrator" alt="Adobe Illustrator" height="48" />
