@@ -152,7 +152,7 @@ A technical exercise in engine-level programming, built from the ground up using
 
 <a name="darkside"></a>
 <div style="display: flex; justify-content: space-between; align-items: center;">
-  <img src="https://img.shields.io/badge/Your%20Dark%20Side-a5472d?style=for-the-badge&logo=oracle&logoColor=white" height="35"/>
+  <img src="https://img.shields.io/badge/Your%20Dark%20Side-a5472d?style=for-the-badge&logo=openjdk&logoColor=white" height="35"/>
   <img src="https://img.shields.io/badge/2023-333333?style=for-the-badge" height="35"/>
 </div>
 <div style="display: flex; justify-content: space-between; margin-top: 8px;">
