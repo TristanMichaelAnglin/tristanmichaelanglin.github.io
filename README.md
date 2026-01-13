@@ -63,9 +63,8 @@
 ---
 
 <a name="blood-lineage"></a>
-<div style="display: flex; justify-content: space-between; align-items: flex-end;">
-  <img src="https://img.shields.io/badge/Blood%20%26%20Lineage-a5472d?style=flat-square&logo=unrealengine&logoColor=white" height="35"/>
-  <b style="font-size: 1.5em;">2026</b>
+<div align="center">
+  <img src="https://img.shields.io/badge/2026-Blood%20%26%20Lineage-a5472d?style=for-the-badge&logo=unrealengine&logoColor=white&labelColor=333333" height="40"/>
 </div>
 <div style="display: flex; justify-content: space-between; margin-top: 5px;">
   <b>3D Co-op Musou RPG</b>
