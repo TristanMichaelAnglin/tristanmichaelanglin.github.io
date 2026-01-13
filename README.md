@@ -35,34 +35,38 @@ Since shifting my focus entirely to Game Development in 2023, I’ve maintained 
 <a name="skills"></a>
 <p align="center"><b>Engines & Programming</b></p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=unreal,unity,cpp,cs,py,java&theme=dark" 
-       alt="Unreal Engine, Unity, C++, C#, Python, Java" 
-       title="Unreal Engine, Unity, C++, C#, Python, Java" />
+  <img src="https://skillicons.dev/icons?i=unreal&theme=dark" title="Unreal Engine" alt="Unreal Engine" height="48" />
+  <img src="https://skillicons.dev/icons?i=unity&theme=dark" title="Unity" alt="Unity" height="48" />
+  <img src="https://skillicons.dev/icons?i=cpp&theme=dark" title="C++" alt="C++" height="48" />
+  <img src="https://skillicons.dev/icons?i=cs&theme=dark" title="C#" alt="C#" height="48" />
+  <img src="https://skillicons.dev/icons?i=py&theme=dark" title="Python" alt="Python" height="48" />
+  <img src="https://skillicons.dev/icons?i=java&theme=dark" title="Java" alt="Java" height="48" />
 </p>
 
 <p align="center"><b>Workflow & Version Control</b></p>
 <p align="center">
-  <img src="assets/Icons/JiraIcon.png" width="48" height="48" style="vertical-align: middle; border-radius: 10px; margin-right: 4px; transform: translateY(-20px);" 
-       alt="Jira" title="Jira" />
-  <img src="https://skillicons.dev/icons?i=git,mysql,nodejs,cmake&theme=dark" 
-       alt="Git, MySQL, Node.js, CMake" 
-       title="Git, MySQL, Node.js, CMake" />
+  <img src="assets/Icons/JiraIcon.png" height="48" style="vertical-align: middle; border-radius: 10px;" title="Jira" alt="Jira" />
+  <img src="https://skillicons.dev/icons?i=git&theme=dark" title="Git" alt="Git" height="48" />
+  <img src="https://skillicons.dev/icons?i=mysql&theme=dark" title="MySQL" alt="MySQL" height="48" />
+  <img src="https://skillicons.dev/icons?i=nodejs&theme=dark" title="Node.js" alt="Node.js" height="48" />
+  <img src="https://skillicons.dev/icons?i=cmake&theme=dark" title="CMake" alt="CMake" height="48" />
 </p>
 
 <p align="center"><b>Development Environments</b></p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=visualstudio,vscode,eclipse&theme=dark" 
-       alt="Visual Studio, VS Code, Eclipse" 
-       title="Visual Studio, VS Code, Eclipse" />
+  <img src="https://skillicons.dev/icons?i=visualstudio&theme=dark" title="Visual Studio" alt="Visual Studio" height="48" />
+  <img src="https://skillicons.dev/icons?i=vscode&theme=dark" title="VS Code" alt="VS Code" height="48" />
+  <img src="https://skillicons.dev/icons?i=eclipse&theme=dark" title="Eclipse" alt="Eclipse" height="48" />
 </p>
 
 <p align="center"><b>Art, Audio & UI Design</b></p>
 <p align="center">
-  <img src="assets/Icons/3dsmaxIcon.png" width="48" height="48" style="vertical-align: middle; border-radius: 10px; margin-right: 4px; transform: translateY(-20px);" 
-       alt="3ds Max" title="3ds Max" />
-  <img src="https://skillicons.dev/icons?i=blender,photoshop,illustrator,pr,au&theme=dark" 
-       alt="Blender, Photoshop, Illustrator, Premiere Pro, Audition" 
-       title="Blender, Photoshop, Illustrator, Premiere Pro, Audition" />
+  <img src="assets/Icons/3dsmaxIcon.png" height="48" style="vertical-align: middle; border-radius: 10px;" title="3ds Max" alt="3ds Max" />
+  <img src="https://skillicons.dev/icons?i=blender&theme=dark" title="Blender" alt="Blender" height="48" />
+  <img src="https://skillicons.dev/icons?i=photoshop&theme=dark" title="Adobe Photoshop" alt="Adobe Photoshop" height="48" />
+  <img src="https://skillicons.dev/icons?i=illustrator&theme=dark" title="Adobe Illustrator" alt="Adobe Illustrator" height="48" />
+  <img src="https://skillicons.dev/icons?i=pr&theme=dark" title="Adobe Premiere Pro" alt="Adobe Premiere Pro" height="48" />
+  <img src="https://skillicons.dev/icons?i=au&theme=dark" title="Adobe Audition" alt="Adobe Audition" height="48" />
 </p>
 <a name="projects"></a>
 
