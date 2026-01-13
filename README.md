@@ -18,13 +18,14 @@
 </p>
 
 <p align="center">
-  <a href="#projects"><img src="https://img.shields.io/badge/FEATURED%20PROJECTS-616161?style=for-the-badge" height="35"/></a>
+  <strong>Featured Projects</strong>
   <br />
-  <a href="#blood-lineage"><img src="https://img.shields.io/badge/Blood%20%26%20Lineage-333333?style=flat-square&logo=unrealengine&logoColor=white" height="45"/></a>
-  <a href="#tower-defense"><img src="https://img.shields.io/badge/Tower%20Defense-333333?style=flat-square&logo=cplusplus&logoColor=white" height="45"/></a>
-  <a href="#darkside"><img src="https://img.shields.io/badge/Your%20Dark%20Side-333333?style=flat-square&logo=openjdk&logoColor=white" height="45"/></a>
-  <a href="#dungeon"><img src="https://img.shields.io/badge/Dungeon%20Crawler-333333?style=flat-square&logo=python&logoColor=white" height="45"/></a>
-  <a href="#hit-run"><img src="https://img.shields.io/badge/Hit%20%26%20Run-333333?style=flat-square&logo=python&logoColor=white" height="45"/></a>
+  <br />
+  <a href="#blood-lineage"><img src="https://img.shields.io/badge/Blood%20%26%20Lineage-333333?style=flat-square&logo=unrealengine&logoColor=white" height="25"/></a>
+  <a href="#tower-defense"><img src="https://img.shields.io/badge/Tower%20Defense-333333?style=flat-square&logo=cplusplus&logoColor=white" height="25"/></a>
+  <a href="#darkside"><img src="https://img.shields.io/badge/Your%20Dark%20Side-333333?style=flat-square&logo=openjdk&logoColor=white" height="25"/></a>
+  <a href="#dungeon"><img src="https://img.shields.io/badge/Dungeon%20Crawler-333333?style=flat-square&logo=python&logoColor=white" height="25"/></a>
+  <a href="#hit-run"><img src="https://img.shields.io/badge/Hit%20%26%20Run-333333?style=flat-square&logo=python&logoColor=white" height="25"/></a>
 </p>
 
 ---
