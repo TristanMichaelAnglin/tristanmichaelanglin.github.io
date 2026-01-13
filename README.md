@@ -17,17 +17,6 @@
   <a href="https://www.youtube.com/@TristanAnglin" target="_blank"><img src="https://img.shields.io/badge/YOUTUBE-CD201F?style=for-the-badge&logo=youtube&logoColor=white" height="30" /></a>
 </p>
 
-<p align="center">
-  <strong>Featured Projects</strong>
-  <br />
-  <br />
-  <a href="#blood-lineage"><img src="https://img.shields.io/badge/Blood%20%26%20Lineage-333333?style=flat-square&logo=unrealengine&logoColor=white" height="25"/></a>
-  <a href="#tower-defense"><img src="https://img.shields.io/badge/Tower%20Defense-333333?style=flat-square&logo=cplusplus&logoColor=white" height="25"/></a>
-  <a href="#darkside"><img src="https://img.shields.io/badge/Your%20Dark%20Side-333333?style=flat-square&logo=openjdk&logoColor=white" height="25"/></a>
-  <a href="#dungeon"><img src="https://img.shields.io/badge/Dungeon%20Crawler-333333?style=flat-square&logo=python&logoColor=white" height="25"/></a>
-  <a href="#hit-run"><img src="https://img.shields.io/badge/Hit%20%26%20Run-333333?style=flat-square&logo=python&logoColor=white" height="25"/></a>
-</p>
-
 ---
 
 <a name="about"></a>
@@ -58,6 +47,19 @@
 </p>
 
 <a name="projects"></a>
+
+---
+
+<p align="center">
+  <strong>Featured Projects</strong>
+  <br />
+  <br />
+  <a href="#blood-lineage"><img src="https://img.shields.io/badge/Blood%20%26%20Lineage-333333?style=flat-square&logo=unrealengine&logoColor=white" height="30"/></a>
+  <a href="#tower-defense"><img src="https://img.shields.io/badge/Tower%20Defense-333333?style=flat-square&logo=cplusplus&logoColor=white" height="30"/></a>
+  <a href="#darkside"><img src="https://img.shields.io/badge/Your%20Dark%20Side-333333?style=flat-square&logo=openjdk&logoColor=white" height="30"/></a>
+  <a href="#dungeon"><img src="https://img.shields.io/badge/Dungeon%20Crawler-333333?style=flat-square&logo=python&logoColor=white" height="30"/></a>
+  <a href="#hit-run"><img src="https://img.shields.io/badge/Hit%20%26%20Run-333333?style=flat-square&logo=python&logoColor=white" height="30"/></a>
+</p>
 
 ---
 
