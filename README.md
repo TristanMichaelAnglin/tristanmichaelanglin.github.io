@@ -63,8 +63,9 @@
 ---
 
 <a name="blood-lineage"></a>
-<div align="center">
-  <img src="https://img.shields.io/badge/2026-Blood%20%26%20Lineage-a5472d?style=for-the-badge&logo=unrealengine&logoColor=white&labelColor=333333" height="40"/>
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <img src="https://img.shields.io/badge/Blood%20%26%20Lineage-a5472d?style=for-the-badge&logo=unrealengine&logoColor=white" height="35"/>
+  <img src="https://img.shields.io/badge/2026-333333?style=for-the-badge" height="35"/>
 </div>
 <div style="display: flex; justify-content: space-between; margin-top: 5px;">
   <b>3D Co-op Musou RPG</b>
@@ -103,9 +104,9 @@
 ---
 
 <a name="tower-defense"></a>
-<div style="display: flex; justify-content: space-between; align-items: flex-end;">
-  <img src="https://img.shields.io/badge/Tower%20Defense-a5472d?style=flat-square&logo=cplusplus&logoColor=white" height="35"/>
-  <b style="font-size: 1.5em;">2024</b>
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <img src="https://img.shields.io/badge/Tower%20Defense-a5472d?style=for-the-badge&logo=cplusplus&logoColor=white" height="35"/>
+  <img src="https://img.shields.io/badge/2024-333333?style=for-the-badge" height="35"/>
 </div>
 <div style="display: flex; justify-content: space-between; margin-top: 5px;">
   <b>2D Tile-Based Strategy TD</b>
@@ -135,9 +136,9 @@
 ---
 
 <a name="darkside"></a>
-<div style="display: flex; justify-content: space-between; align-items: flex-end;">
-  <img src="https://img.shields.io/badge/Your%20Dark%20Side-a5472d?style=flat-square&logo=openjdk&logoColor=white" height="35"/>
-  <b style="font-size: 1.5em;">2023</b>
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <img src="https://img.shields.io/badge/Your%20Dark%20Side-a5472d?style=for-the-badge&logo=openjdk&logoColor=white" height="35"/>
+  <img src="https://img.shields.io/badge/2023-333333?style=for-the-badge" height="35"/>
 </div>
 <div style="display: flex; justify-content: space-between; margin-top: 5px;">
   <b>2D Tile-Based Fantasy RPG</b>
@@ -149,7 +150,7 @@
 <div align="center">
   <a href="https://www.youtube.com/watch?v=8z6vDdhrYUA" target="_blank">
     <img src="https://img.youtube.com/vi/8z6vDdhrYUA/maxresdefault.jpg" 
-         alt="Blood & Lineage Gameplay" 
+         alt="YourDarkSide Gameplay" 
          style="width: 95%; max-width: 800px; aspect-ratio: 16 / 9; object-fit: cover; border-radius: 12px; box-shadow: 0px 4px 20px rgba(0,0,0,0.4);">
   </a>
   <p style="margin-top: 12px;"><i>(Click to watch gameplay trailer)</i></p>
@@ -171,9 +172,9 @@
 ---
 
 <a name="dungeon"></a>
-<div style="display: flex; justify-content: space-between; align-items: flex-end;">
-  <img src="https://img.shields.io/badge/Dungeon%20Crawler-a5472d?style=flat-square&logo=python&logoColor=white" height="35"/>
-  <b style="font-size: 1.5em;">2017</b>
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <img src="https://img.shields.io/badge/Dungeon%20Crawler-a5472d?style=for-the-badge&logo=python&logoColor=white" height="35"/>
+  <img src="https://img.shields.io/badge/2017-333333?style=for-the-badge" height="35"/>
 </div>
 <div style="display: flex; justify-content: space-between; margin-top: 5px;">
   <b>2D Dungeon Crawler RPG</b>
@@ -205,9 +206,9 @@
 ---
 
 <a name="hit-run"></a>
-<div style="display: flex; justify-content: space-between; align-items: flex-end;">
-  <img src="https://img.shields.io/badge/Hit%20%26%20Run-a5472d?style=flat-square&logo=python&logoColor=white" height="35"/>
-  <b style="font-size: 1.5em;">2016</b>
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <img src="https://img.shields.io/badge/Hit%20%26%20Run-a5472d?style=for-the-badge&logo=python&logoColor=white" height="35"/>
+  <img src="https://img.shields.io/badge/2016-333333?style=for-the-badge" height="35"/>
 </div>
 <div style="display: flex; justify-content: space-between; margin-top: 5px;">
   <b>2D Survival Endless Scroller</b>
