@@ -18,14 +18,13 @@
 </p>
 
 <p align="center">
-  <b><a href="#about">ABOUT ME</a></b> • <b><a href="#skills">TECHNICAL SKILLS</a></b> • <b><a href="#projects">FEATURED PROJECTS</a></b>
-  <br>
-  <i>Jump to Project:</i>
-  <a href="#blood-lineage">Blood & Lineage</a> | 
-  <a href="#tower-defense">Tower Defense</a> | 
-  <a href="#darkside">Your Dark Side</a> | 
-  <a href="#dungeon">Dungeon Crawler</a> | 
-  <a href="#hit-run">Hit & Run</a>
+  <a href="#projects"><img src="https://img.shields.io/badge/FEATURED%20PROJECTS-616161?style=for-the-badge" height="35"/></a>
+  <br />
+  <a href="#blood-lineage"><img src="https://img.shields.io/badge/Blood%20%26%20Lineage-333333?style=flat-square&logo=unrealengine&logoColor=white" height="45"/></a>
+  <a href="#tower-defense"><img src="https://img.shields.io/badge/Tower%20Defense-333333?style=flat-square&logo=cplusplus&logoColor=white" height="45"/></a>
+  <a href="#darkside"><img src="https://img.shields.io/badge/Your%20Dark%20Side-333333?style=flat-square&logo=openjdk&logoColor=white" height="45"/></a>
+  <a href="#dungeon"><img src="https://img.shields.io/badge/Dungeon%20Crawler-333333?style=flat-square&logo=python&logoColor=white" height="45"/></a>
+  <a href="#hit-run"><img src="https://img.shields.io/badge/Hit%20%26%20Run-333333?style=flat-square&logo=python&logoColor=white" height="45"/></a>
 </p>
 
 ---
@@ -58,7 +57,6 @@
 </p>
 
 <a name="projects"></a>
-<h2 align="center">🚀 Featured Projects</h2>
 
 ---
 
@@ -66,7 +64,7 @@
 <div style="display: flex; justify-content: space-between; align-items: flex-end;">
   <span style="font-size: 1.6em; font-weight: bold;">Blood & Lineage</span>
   <span>
-    <img src="https://skillicons.dev/icons?i=unreal,cpp&theme=dark" width="55" align="absbottom" /> 
+    <img src="https://skillicons.dev/icons?i=unreal&theme=dark" width="25" align="absbottom" /> 
     <b style="font-size: 1.2em;">2026</b>
   </span>
 </div>
