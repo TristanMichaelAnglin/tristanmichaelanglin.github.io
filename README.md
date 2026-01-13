@@ -68,39 +68,61 @@
   <img src="https://img.shields.io/badge/Blood%20%26%20Lineage-a5472d?style=for-the-badge&logo=unrealengine&logoColor=white" height="35"/>
   <img src="https://img.shields.io/badge/2026-333333?style=for-the-badge" height="35"/>
 </div>
-<div style="display: flex; justify-content: space-between; margin-top: 5px;">
+
+<div style="display: flex; justify-content: space-between; margin-top: 8px;">
   <b>3D Co-op Musou RPG</b>
   <b>Lead UI & Systems Developer</b>
 </div>
 
+<p align="left" style="margin-top: 10px;">
+  <img src="https://img.shields.io/badge/Unreal%20Engine%205-%230E1128?style=flat-square&logo=unrealengine&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-%2300599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Blueprints-%230E1128?style=flat-square&logo=unrealengine&logoColor=317873" />
+  <img src="https://img.shields.io/badge/Jira-%230052CC?style=flat-square&logo=jira&logoColor=white" />
+</p>
+
 > **Project Overview:** A high-action capstone project developed by an 11-person team. I led the systems architecture, utilizing **Jira** for agile sprint management and **GitHub** for version control to synchronize workflows across art, design, and programming departments.
 
-<div align="center">
+<div align="center" style="margin: 25px 0;">
   <a href="https://www.youtube.com/watch?v=dsOIqnmBTb4" target="_blank">
     <img src="https://img.youtube.com/vi/dsOIqnmBTb4/maxresdefault.jpg" 
          alt="Blood & Lineage Gameplay" 
-         style="width: 95%; max-width: 800px; aspect-ratio: 16 / 9; object-fit: cover; border-radius: 12px; box-shadow: 0px 4px 20px rgba(0,0,0,0.4);">
+         style="width: 95%; max-width: 800px; aspect-ratio: 16 / 9; object-fit: cover; border-radius: 12px; border: 2px solid #a5472d; box-shadow: 0px 0px 20px rgba(165, 71, 45, 0.2);">
   </a>
   <p style="margin-top: 12px;"><i>(Click to watch gameplay trailer)</i></p>
 </div>
 
-**Core Contributions**
+### 🛠️ Core Contributions
 
-> **UI/UX Architecture:** Engineered a modular UI framework using **Unreal UMG**. This included a dynamic HUD and complex data-bound menu systems designed to scale across multiple resolutions and game states.
+<div style="background: #161b22; padding: 15px; border-radius: 8px; border-left: 5px solid #a5472d; margin-bottom: 10px;">
+  <b>🖥️ UI/UX Architecture</b><br/>
+  Engineered a modular UI framework using <b>Unreal UMG</b>. This included a dynamic HUD and complex data-bound menu systems designed to scale across multiple resolutions and game states.
+</div>
 
-> **Networked Systems:** Implemented server-authoritative **RPCs** for critical non-combat interactions, ensuring secure data handling and synchronized game states across all clients.
-  
-> **Lobby & Session Management:** Architected the backend networking logic for a seamless 4-player co-op experience, handling session hosting, searching, and player handshakes.
-  
-> **Data-Driven Inventory:** Developed a custom inventory and loot framework from the ground up, prioritizing networked persistence and efficient server-client replication.
+<div style="background: #161b22; padding: 15px; border-radius: 8px; border-left: 5px solid #a5472d; margin-bottom: 10px;">
+  <b>🌐 Networked Systems</b><br/>
+  Implemented server-authoritative <b>RPCs</b> for critical non-combat interactions, ensuring secure data handling and synchronized game states across all clients.
+</div>
 
-**Team Integration & Collaboration**
+<div style="background: #161b22; padding: 15px; border-radius: 8px; border-left: 5px solid #a5472d; margin-bottom: 10px;">
+  <b>🤝 Lobby & Session Management</b><br/>
+  Architected the backend networking logic for a seamless 4-player co-op experience, handling session hosting, searching, and player handshakes.
+</div>
 
-> **Version Control & Agile Workflow:** Coordinated with a team of 11 using GitHub for repository management and **Jira** for task tracking, maintaining build stability and ensuring efficient code integration across various sub-teams.
+<div style="background: #161b22; padding: 15px; border-radius: 8px; border-left: 5px solid #a5472d; margin-bottom: 10px;">
+  <b>📦 Data-Driven Inventory</b><br/>
+  Developed a custom inventory and loot framework from the ground up, prioritizing networked persistence and efficient server-client replication.
+</div>
 
-> **Systems Interoperability:** Acted as a technical bridge between modules, ensuring my UI and Networking frameworks integrated successfully with peer-developed systems, such as **Procedural Level Generation**, to ensure dynamic data was correctly replicated and displayed.
+### 👥 Team Integration & Collaboration
+
+> **Version Control & Agile Workflow:** Coordinated with a team of 11 using GitHub for repository management and **Jira** for task tracking, maintaining build stability and ensuring efficient code integration.
+
+> **Systems Interoperability:** Acted as a technical bridge, ensuring UI and Networking frameworks integrated successfully with systems like **Procedural Level Generation**.
 
 <p align="right"><a href="#top">↑ Back to Top</a></p>
+<br/>
+<hr style="border: 0.5px solid #333;" />
 
 ---
 
