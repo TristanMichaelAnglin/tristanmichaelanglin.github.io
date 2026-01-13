@@ -128,7 +128,7 @@
   <b>Solo Dev</b>
 </div>
 
-> **Project Overview:** Your Dark Side is built from the ground up in Java to explore modular system architecture. This project serves as a comprehensive technical playground for implementing the core pillars of the RPG genre, from complex state management and A* pathfinding to integrated merchant economies and scalable ability frameworks.
+> **Project Overview:** Built entirely from the ground up in Java, Your Dark Side represents my final major project before transitioning into formal game development studies. Driven by pure passion and self-teaching, it served as a technical playground for implementing the core pillars of the RPG genre—including complex state management, A* pathfinding, and integrated merchant economies—before I had even begun learning these industry concepts in a classroom setting.
 
 <div align="center">
   <a href="https://www.youtube.com/watch?v=8z6vDdhrYUA" target="_blank">
