@@ -68,210 +68,191 @@
   <img src="https://img.shields.io/badge/Blood%20%26%20Lineage-a5472d?style=for-the-badge&logo=unrealengine&logoColor=white" height="35"/>
   <img src="https://img.shields.io/badge/2026-333333?style=for-the-badge" height="35"/>
 </div>
-
 <div style="display: flex; justify-content: space-between; margin-top: 8px;">
   <b>3D Co-op Musou RPG</b>
   <b>Lead UI & Systems Developer</b>
 </div>
-
-<div style="background: #161b22; padding: 15px; border-radius: 8px; border-left: 5px solid #a5472d; margin-bottom: 10px;">
-  <b>Project Overview</b><br/>
-A high-action capstone project developed by an 11-person team. I led the systems architecture, utilizing **Jira** for agile sprint management and **GitHub** for version control to synchronize workflows across art, design, and programming departments.
+<div style="background: #161b22; padding: 15px; border-radius: 8px; border-left: 5px solid #a5472d; margin-bottom: 10px; margin-top: 10px;">
+A high-action capstone project developed by an 11-person team. I led the systems architecture, utilizing <b>Jira</b> for agile sprint management and <b>GitHub</b> for version control to synchronize workflows across art, design, and programming departments.
 </div>
-
 <div align="center" style="margin: 25px 0;">
   <a href="https://www.youtube.com/watch?v=dsOIqnmBTb4" target="_blank">
-    <img src="https://img.youtube.com/vi/dsOIqnmBTb4/maxresdefault.jpg" 
-         alt="Blood & Lineage Gameplay" 
-         style="width: 95%; max-width: 800px; aspect-ratio: 16 / 9; object-fit: cover; border-radius: 12px; border: 2px solid #a5472d; box-shadow: 0px 0px 20px rgba(165, 71, 45, 0.2);">
+    <img src="https://img.youtube.com/vi/dsOIqnmBTb4/maxresdefault.jpg" alt="Blood & Lineage Gameplay" style="width: 95%; max-width: 800px; aspect-ratio: 16 / 9; object-fit: cover; border-radius: 12px; border: 2px solid #a5472d; box-shadow: 0px 0px 20px rgba(165, 71, 45, 0.2);">
   </a>
   <p style="margin-top: 12px;"><i>(Click to watch gameplay trailer)</i></p>
 </div>
-
 ### Core Contributions
-
 <div style="background: #161b22; padding: 15px; border-radius: 8px; border-left: 5px solid #a5472d; margin-bottom: 10px;">
   <b>UI/UX Architecture</b><br/>
   Engineered a modular UI framework using <b>Unreal UMG</b>. This included a dynamic HUD and complex data-bound menu systems designed to scale across multiple resolutions and game states.
 </div>
-
 <div style="background: #161b22; padding: 15px; border-radius: 8px; border-left: 5px solid #a5472d; margin-bottom: 10px;">
   <b>Networked Systems</b><br/>
   Implemented server-authoritative <b>RPCs</b> for critical non-combat interactions, ensuring secure data handling and synchronized game states across all clients.
 </div>
-
 <div style="background: #161b22; padding: 15px; border-radius: 8px; border-left: 5px solid #a5472d; margin-bottom: 10px;">
   <b>Lobby & Session Management</b><br/>
   Architected the backend networking logic for a seamless 4-player co-op experience, handling session hosting, searching, and player handshakes.
 </div>
-
 <div style="background: #161b22; padding: 15px; border-radius: 8px; border-left: 5px solid #a5472d; margin-bottom: 10px;">
   <b>Data-Driven Inventory</b><br/>
   Developed a custom inventory and loot framework from the ground up, prioritizing networked persistence and efficient server-client replication.
 </div>
-
 ### Team Integration & Collaboration
-
 <div style="background: #161b22; padding: 15px; border-radius: 8px; border-left: 5px solid #a5472d; margin-bottom: 10px;">
   <b>Version Control & Agile Workflow</b><br/>
-  Coordinated with a team of 11 using GitHub for repository management and **Jira** for task tracking, maintaining build stability and ensuring efficient code integration.
+  Coordinated with a team of 11 using GitHub for repository management and <b>Jira</b> for task tracking, maintaining build stability and ensuring efficient code integration.
 </div>
-
 <div style="background: #161b22; padding: 15px; border-radius: 8px; border-left: 5px solid #a5472d; margin-bottom: 10px;">
   <b>Systems Interoperability</b><br/>
-  Acted as a technical bridge, ensuring UI and Networking frameworks integrated successfully with systems like **Procedural Level Generation**.
+  Acted as a technical bridge, ensuring UI and Networking frameworks integrated successfully with systems like <b>Procedural Level Generation</b>.
 </div>
-
 <p align="right"><a href="#top">↑ Back to Top</a></p>
-<br/>
 <hr style="border: 0.5px solid #333;" />
-
----
 
 <a name="tower-defense"></a>
 <div style="display: flex; justify-content: space-between; align-items: center;">
   <img src="https://img.shields.io/badge/Tower%20Defense-a5472d?style=for-the-badge&logo=cplusplus&logoColor=white" height="35"/>
   <img src="https://img.shields.io/badge/2024-333333?style=for-the-badge" height="35"/>
 </div>
-
 <div style="display: flex; justify-content: space-between; margin-top: 8px;">
   <b>2D Tile-Based Strategy TD</b>
   <b>Solo Developer</b>
 </div>
-
-<div style="background: #161b22; padding: 15px; border-radius: 8px; border-left: 5px solid #a5472d; margin-bottom: 10px;">
-  <b>Project Overview</b><br/>
-  A technical exercise in engine-level programming, built from the ground up using C++ and OpenGL. The project focused on efficient spatial partitioning and real-time path manipulation within a custom rendering pipeline.
+<div style="background: #161b22; padding: 15px; border-radius: 8px; border-left: 5px solid #a5472d; margin-bottom: 10px; margin-top: 10px;">
+A technical exercise in engine-level programming, built from the ground up using C++ and OpenGL. The project focused on efficient spatial partitioning and real-time path manipulation within a custom rendering pipeline.
 </div>
-
 <div align="center" style="margin: 25px 0;">
   <a href="https://www.youtube.com/watch?v=LynIVupNO2c" target="_blank">
-    <img src="https://img.youtube.com/vi/LynIVupNO2c/maxresdefault.jpg" 
-         alt="Tower Defense Gameplay" 
-         style="width: 95%; max-width: 800px; aspect-ratio: 16 / 9; object-fit: cover; border-radius: 12px; border: 2px solid #a5472d; box-shadow: 0px 0px 20px rgba(165, 71, 45, 0.2);">
+    <img src="https://img.youtube.com/vi/LynIVupNO2c/maxresdefault.jpg" alt="Tower Defense Gameplay" style="width: 95%; max-width: 800px; aspect-ratio: 16 / 9; object-fit: cover; border-radius: 12px; border: 2px solid #a5472d; box-shadow: 0px 0px 20px rgba(165, 71, 45, 0.2);">
   </a>
   <p style="margin-top: 12px;"><i>(Click to watch gameplay trailer)</i></p>
 </div>
-
 ### Core Contributions
-
 <div style="background: #161b22; padding: 15px; border-radius: 8px; border-left: 5px solid #a5472d; margin-bottom: 10px;">
   <b>Custom OpenGL Engine</b><br/>
   Developed a lightweight 2D rendering engine using C++, implementing shader management, texture mapping, and a camera system to handle dynamic game scaling.
 </div>
-
 <div style="background: #161b22; padding: 15px; border-radius: 8px; border-left: 5px solid #a5472d; margin-bottom: 10px;">
   <b>Dynamic Pathfinding</b><br/>
   Engineered a tile-based grid system utilizing the A* Search Algorithm, allowing enemies to recalculate paths in real-time as the player places or removes walls and towers.
 </div>
-
 <div style="background: #161b22; padding: 15px; border-radius: 8px; border-left: 5px solid #a5472d; margin-bottom: 10px;">
   <b>Grid & Placement Logic</b><br/>
   Built a robust snapping and validation system for player-built structures, ensuring towers and obstacles interact correctly with the navigation mesh and enemy hitboxes.
 </div>
-
 <p align="right"><a href="#top">↑ Back to Top</a></p>
-<br/>
 <hr style="border: 0.5px solid #333;" />
-
----
 
 <a name="darkside"></a>
 <div style="display: flex; justify-content: space-between; align-items: center;">
-  <img src="https://img.shields.io/badge/Your%20Dark%20Side-a5472d?style=for-the-badge&logo=openjdk&logoColor=white" height="35"/>
+  <img src="https://img.shields.io/badge/Your%20Dark%20Side-a5472d?style=for-the-badge&logo=oracle&logoColor=white" height="35"/>
   <img src="https://img.shields.io/badge/2023-333333?style=for-the-badge" height="35"/>
 </div>
-<div style="display: flex; justify-content: space-between; margin-top: 5px;">
+<div style="display: flex; justify-content: space-between; margin-top: 8px;">
   <b>2D Tile-Based Fantasy RPG</b>
   <b>Solo Developer</b>
 </div>
-
-> **Project Overview:** Built entirely from the ground up in Java, Your Dark Side represents my final major project before transitioning into formal game development studies. Driven by pure passion and self-teaching, it served as a technical playground for implementing the core pillars of the RPG genre—including complex state management, A* pathfinding, and integrated merchant economies—before I had even begun learning these industry concepts in a classroom setting.
-
-<div align="center">
+<div style="background: #161b22; padding: 15px; border-radius: 8px; border-left: 5px solid #a5472d; margin-bottom: 10px; margin-top: 10px;">
+Built entirely from the ground up in Java, Your Dark Side represents my final major project before transitioning into formal game development studies. Driven by pure passion and self-teaching, it served as a technical playground for implementing the core pillars of the RPG genre—including complex state management, A* pathfinding, and integrated merchant economies.
+</div>
+<div align="center" style="margin: 25px 0;">
   <a href="https://www.youtube.com/watch?v=8z6vDdhrYUA" target="_blank">
-    <img src="https://img.youtube.com/vi/8z6vDdhrYUA/maxresdefault.jpg" 
-         alt="YourDarkSide Gameplay" 
-         style="width: 95%; max-width: 800px; aspect-ratio: 16 / 9; object-fit: cover; border-radius: 12px; box-shadow: 0px 4px 20px rgba(0,0,0,0.4);">
+    <img src="https://img.youtube.com/vi/8z6vDdhrYUA/maxresdefault.jpg" alt="YourDarkSide Gameplay" style="width: 95%; max-width: 800px; aspect-ratio: 16 / 9; object-fit: cover; border-radius: 12px; border: 2px solid #a5472d; box-shadow: 0px 0px 20px rgba(165, 71, 45, 0.2);">
   </a>
   <p style="margin-top: 12px;"><i>(Click to watch gameplay trailer)</i></p>
 </div>
-
-**Core Contributions**
-> **Modular Class Framework:** Engineered a multi-class selection system that serves as the foundation for character state management and attribute scaling.
-
-> **Inventory & Economy Logic:** Developed a robust inventory system and NPC interaction framework supporting merchant economies, including item valuation and buying/selling logic.
-
-> **A* Pathfinding Implementation:** Integrated advanced pathfinding algorithms for enemy AI to ensure intelligent navigation through complex tile-based environments.
-
-> **Spell Framework:** Designed an extensible spell and ability system architecture, allowing for easy integration of new combat mechanics and visual effects.
-
-> **Interactive Minimap:** Developed a functional minimap system featuring real-time player and enemy tracking and dynamic zoom-in/out capabilities for enhanced world navigation.
-
+### Core Contributions
+<div style="background: #161b22; padding: 15px; border-radius: 8px; border-left: 5px solid #a5472d; margin-bottom: 10px;">
+  <b>Modular Class Framework</b><br/>
+  Engineered a multi-class selection system that serves as the foundation for character state management and attribute scaling.
+</div>
+<div style="background: #161b22; padding: 15px; border-radius: 8px; border-left: 5px solid #a5472d; margin-bottom: 10px;">
+  <b>Inventory & Economy Logic</b><br/>
+  Developed a robust inventory system and NPC interaction framework supporting merchant economies, including item valuation and buying/selling logic.
+</div>
+<div style="background: #161b22; padding: 15px; border-radius: 8px; border-left: 5px solid #a5472d; margin-bottom: 10px;">
+  <b>A* Pathfinding Implementation</b><br/>
+  Integrated advanced pathfinding algorithms for enemy AI to ensure intelligent navigation through complex tile-based environments.
+</div>
+<div style="background: #161b22; padding: 15px; border-radius: 8px; border-left: 5px solid #a5472d; margin-bottom: 10px;">
+  <b>Spell Framework</b><br/>
+  Designed an extensible spell and ability system architecture, allowing for easy integration of new combat mechanics and visual effects.
+</div>
+<div style="background: #161b22; padding: 15px; border-radius: 8px; border-left: 5px solid #a5472d; margin-bottom: 10px;">
+  <b>Interactive Minimap</b><br/>
+  Developed a functional minimap system featuring real-time player and enemy tracking and dynamic zoom-in/out capabilities.
+</div>
 <p align="right"><a href="#top">↑ Back to Top</a></p>
-
----
+<hr style="border: 0.5px solid #333;" />
 
 <a name="dungeon"></a>
 <div style="display: flex; justify-content: space-between; align-items: center;">
   <img src="https://img.shields.io/badge/Dungeon%20Crawler-a5472d?style=for-the-badge&logo=python&logoColor=white" height="35"/>
   <img src="https://img.shields.io/badge/2017-333333?style=for-the-badge" height="35"/>
 </div>
-<div style="display: flex; justify-content: space-between; margin-top: 5px;">
+<div style="display: flex; justify-content: space-between; margin-top: 8px;">
   <b>2D Dungeon Crawler RPG</b>
   <b>Solo Developer</b>
 </div>
-
-> **Project Overview:** This project represents my first deep dive into the RPG genre and complex system architecture. Developed entirely on an iPad, this was an ambitious leap from my previous work, driven by a passion for dungeon crawlers. While the game remains an unfinished prototype, it was the first time I wrestled with—and successfully implemented—interlocking systems like inventory management, class-based stats, and enemy AI. It stands as a proud milestone where my passion for the genre pushed me to teach myself more advanced programming logic.
-
-<div align="center">
+<div style="background: #161b22; padding: 15px; border-radius: 8px; border-left: 5px solid #a5472d; margin-bottom: 10px; margin-top: 10px;">
+This project represents my first deep dive into the RPG genre and complex system architecture. Developed entirely on an iPad, this was an ambitious leap from previous work, driven by a passion for dungeon crawlers. It stands as a milestone where I successfully implemented interlocking systems like inventory management, class-based stats, and enemy AI.
+</div>
+<div align="center" style="margin: 25px 0;">
   <a href="https://www.youtube.com/watch?v=HNQjJI9nPDQ" target="_blank">
-    <img src="https://img.youtube.com/vi/HNQjJI9nPDQ/maxresdefault.jpg" 
-         alt="Dungeon Crawler Gameplay" 
-         style="width: 95%; max-width: 800px; aspect-ratio: 16 / 9; object-fit: cover; border-radius: 12px; box-shadow: 0px 4px 20px rgba(0,0,0,0.4);">
+    <img src="https://img.youtube.com/vi/HNQjJI9nPDQ/maxresdefault.jpg" alt="Dungeon Crawler Gameplay" style="width: 95%; max-width: 800px; aspect-ratio: 16 / 9; object-fit: cover; border-radius: 12px; border: 2px solid #a5472d; box-shadow: 0px 0px 20px rgba(165, 71, 45, 0.2);">
   </a>
   <p style="margin-top: 12px;"><i>(Click to watch gameplay trailer)</i></p>
 </div>
-
-**Core Contributions**
-> **RPG Systems Architecture:** Designed and implemented a class selection scene featuring 8 unique character classes, each with distinct starting attributes.
-
-> **Combat & Enemy AI:** Developed a real-time combat system where enemies utilize homing logic to track and engage the player with 8-directional movement.
-
-> **Loot & Progression Logic:** Scripted a reward system where defeated enemies trigger XP, gold, and item drops, feeding into a persistent inventory and leveling system.
-
-> **UI/UX Prototyping:** Built a multi-scene menu flow, including a dungeon selection interface and a functional inventory management screen. 
-
+### Core Contributions
+<div style="background: #161b22; padding: 15px; border-radius: 8px; border-left: 5px solid #a5472d; margin-bottom: 10px;">
+  <b>RPG Systems Architecture</b><br/>
+  Designed and implemented a class selection scene featuring 8 unique character classes, each with distinct starting attributes.
+</div>
+<div style="background: #161b22; padding: 15px; border-radius: 8px; border-left: 5px solid #a5472d; margin-bottom: 10px;">
+  <b>Combat & Enemy AI</b><br/>
+  Developed a real-time combat system where enemies utilize homing logic to track and engage the player with 8-directional movement.
+</div>
+<div style="background: #161b22; padding: 15px; border-radius: 8px; border-left: 5px solid #a5472d; margin-bottom: 10px;">
+  <b>Loot & Progression Logic</b><br/>
+  Scripted a reward system where defeated enemies trigger XP, gold, and item drops, feeding into a persistent inventory and leveling system.
+</div>
+<div style="background: #161b22; padding: 15px; border-radius: 8px; border-left: 5px solid #a5472d; margin-bottom: 10px;">
+  <b>UI/UX Prototyping</b><br/>
+  Built a multi-scene menu flow, including a dungeon selection interface and a functional inventory management screen.
+</div>
 <p align="right"><a href="#top">↑ Back to Top</a></p>
-
----
+<hr style="border: 0.5px solid #333;" />
 
 <a name="hit-run"></a>
 <div style="display: flex; justify-content: space-between; align-items: center;">
   <img src="https://img.shields.io/badge/Hit%20%26%20Run-a5472d?style=for-the-badge&logo=python&logoColor=white" height="35"/>
   <img src="https://img.shields.io/badge/2016-333333?style=for-the-badge" height="35"/>
 </div>
-<div style="display: flex; justify-content: space-between; margin-top: 5px;">
+<div style="display: flex; justify-content: space-between; margin-top: 8px;">
   <b>2D Survival Endless Scroller</b>
   <b>Solo Developer</b>
 </div>
-
-> **Project Overview:** As my first step into game development, Hit & Run was built in Python on the iPad to explore the core architecture of a functional game. What began as a simple scrolling concept evolved into a sophisticated wave-based survival challenge. This project served as my primary classroom for learning game loops, difficulty scaling, and persistent progression systems—foundational concepts that have informed every project I’ve built since.
-
-<div align="center">
+<div style="background: #161b22; padding: 15px; border-radius: 8px; border-left: 5px solid #a5472d; margin-bottom: 10px; margin-top: 10px;">
+As my first step into game development, Hit & Run was built in Python on the iPad to explore the core architecture of a functional game loop. This project served as my primary classroom for learning scaling difficulty and persistent progression systems—foundational concepts that have informed every project since.
+</div>
+<div align="center" style="margin: 25px 0;">
   <a href="https://www.youtube.com/watch?v=FSjgXKFcKIo" target="_blank">
-    <img src="https://img.youtube.com/vi/FSjgXKFcKIo/maxresdefault.jpg" 
-         alt="Hit & Run Gameplay" 
-         style="width: 95%; max-width: 800px; aspect-ratio: 16 / 9; object-fit: cover; border-radius: 12px; box-shadow: 0px 4px 20px rgba(0,0,0,0.4);">
+    <img src="https://img.youtube.com/vi/FSjgXKFcKIo/maxresdefault.jpg" alt="Hit & Run Gameplay" style="width: 95%; max-width: 800px; aspect-ratio: 16 / 9; object-fit: cover; border-radius: 12px; border: 2px solid #a5472d; box-shadow: 0px 0px 20px rgba(165, 71, 45, 0.2);">
   </a>
   <p style="margin-top: 12px;"><i>(Click to watch gameplay trailer)</i></p>
 </div>
-
-**Core Contributions**
-> **Survival Loop Architecture:** Engineered a stationary combat loop where enemies continuously converge on a fixed player position.
-
-> **Combat Mechanics:** Implemented a non-targeting swing mechanic that damages all enemies within a frontal arc. Integrated a real-time cooldown system where attack frequency is dynamically tied to a "Haste" stat.
-
-> **Persistent Progression:** Engineered a multi-tiered reward system where kills generate XP, Gold, and Rubies. I developed a comprehensive shop and spell framework that allows players to permanently upgrade base stats such as Health, Damage, Lifesteal, Regen, Dodge, and Haste while managing rare currency to unlock and level up abilities.
-
+### Core Contributions
+<div style="background: #161b22; padding: 15px; border-radius: 8px; border-left: 5px solid #a5472d; margin-bottom: 10px;">
+  <b>Survival Loop Architecture</b><br/>
+  Engineered a stationary combat loop where enemies continuously converge on a fixed player position.
+</div>
+<div style="background: #161b22; padding: 15px; border-radius: 8px; border-left: 5px solid #a5472d; margin-bottom: 10px;">
+  <b>Combat Mechanics</b><br/>
+  Implemented a non-targeting swing mechanic that damages all enemies within a frontal arc and integrated a real-time cooldown system tied to a "Haste" stat.
+</div>
+<div style="background: #161b22; padding: 15px; border-radius: 8px; border-left: 5px solid #a5472d; margin-bottom: 10px;">
+  <b>Persistent Progression</b><br/>
+  Engineered a multi-tiered reward system and a comprehensive shop framework allowing players to permanently upgrade base stats and manage rare currency for ability unlocks.
+</div>
 <p align="right"><a href="#top">↑ Back to Top</a></p>
