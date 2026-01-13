@@ -129,8 +129,8 @@ A high-action capstone project developed by an 11-person team. I led the systems
 A technical exercise in engine-level programming, built from the ground up using C++ and OpenGL. The project focused on efficient spatial partitioning and real-time path manipulation within a custom rendering pipeline.
 </div>
 <div align="center" style="margin: 25px 0;">
-  <a href="https://www.youtube.com/watch?v=LynIVupNO2c" target="_blank">
-    <img src="https://img.youtube.com/vi/LynIVupNO2c/maxresdefault.jpg" alt="Tower Defense Gameplay" style="width: 95%; max-width: 800px; aspect-ratio: 16 / 9; object-fit: cover; border-radius: 12px; border: 2px solid #a5472d; box-shadow: 0px 0px 20px rgba(165, 71, 45, 0.2);">
+  <a href="https://www.youtube.com/watch?v=JPYZdY1jb9k" target="_blank">
+    <img src="https://img.youtube.com/vi/JPYZdY1jb9k/maxresdefault.jpg" alt="Tower Defense Gameplay" style="width: 95%; max-width: 800px; aspect-ratio: 16 / 9; object-fit: cover; border-radius: 12px; border: 2px solid #a5472d; box-shadow: 0px 0px 20px rgba(165, 71, 45, 0.2);">
   </a>
   <p style="margin-top: 12px;"><i>(Click to watch gameplay trailer)</i></p>
 </div>
