@@ -21,15 +21,15 @@
 
 <a name="about"></a>
 <div style="background: #161b22; padding: 10px 15px; border-radius: 8px; border-left: 5px solid #a5472d; margin-bottom: 8px;">
-Growing up in a game family with a collection of over 300 board games gave me a deep and intuitive understanding of mechanics and balance long before I wrote my first line of code.
+Growing up in a household with a 300+ board game collection gave me an intuitive grasp of game balance and systems design long before I wrote my first line of code.
 </div>
 
 <div style="background: #161b22; padding: 10px 15px; border-radius: 8px; border-left: 5px solid #a5472d; margin-bottom: 8px;">
-My programming journey began in high school 2016, where I built my first games in Python on an iPad. I eventually taught myself Java to develop **"Your Dark Side"** while studying Computer Science and Engineering, but I soon realized my true calling wasn't just in general engineering; it was in the technical architecture and creative heart of game design.
+My programming journey began in 2016 with Python, but my curiosity quickly outpaced the classroom. This drive led me to self-teach Java to develop, "Your Dark Side," while pursuing a degree in Computer Science and Engineering. I soon realized my true calling wasn't just in general software—it was in the technical architecture and creative heart of game design.
 </div>
 
 <div style="background: #161b22; padding: 10px 15px; border-radius: 8px; border-left: 5px solid #a5472d; margin-bottom: 8px;">
-Since shifting my focus entirely to Game Development in 2023, I’ve maintained a 3.85 GPA and dedicated myself to building a portfolio centered on engaging gameplay loops and persistent progression systems.
+Since specializing in Game Development in 2023, I have maintained a 3.85 GPA and dedicated myself to building a portfolio centered on engaging gameplay loops and persistent progression systems.
 </div>
 
 <a name="skills"></a>
