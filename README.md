@@ -153,16 +153,16 @@ A technical exercise in engine-level programming, built from the ground up using
 
 ### Core Contributions
 <div style="background: #161b22; padding: 10px; border-radius: 8px; border-left: 5px solid #a5472d; margin-bottom: 10px;">
-  <b>Custom OpenGL Engine</b><br/>
-  Developed a lightweight 2D rendering engine using C++, implementing shader management, texture mapping, and a camera system to handle dynamic game scaling.
+  <b>Custom OpenGL Engine & Y-Sorting</b><br/>
+  Developed a lightweight 2D rendering engine in C++. Implemented <b>Top-Down Depth Sorting</b> by dynamically ordering the draw calls based on tower Y-coordinates, ensuring correct visual layering where foreground structures naturally overlap those behind them.
 </div>
 <div style="background: #161b22; padding: 10px; border-radius: 8px; border-left: 5px solid #a5472d; margin-bottom: 10px;">
   <b>Dynamic Pathfinding</b><br/>
-  Engineered a tile-based grid system utilizing the A* Search Algorithm, allowing enemies to recalculate paths in real-time as the player places walls ensuring there is always one available path to travel.
+  Engineered a tile-based grid system utilizing the A* Search Algorithm, allowing enemies to recalculate paths in real-time as the player places walls, ensuring a valid path to the objective always exists.
 </div>
 <div style="background: #161b22; padding: 10px; border-radius: 8px; border-left: 5px solid #a5472d; margin-bottom: 10px;">
-  <b>Interactive UI & Progression</b><br/>
-  Implemented a hover-detection system for real-time tower range visualization. Developed a kill-based experience system where towers evolve triggering visual upgrades, stat boosts, and expanded range upon reaching kill milestones.
+  <b>Tower Mechanics & Evolution</b><br/>
+  Created a hover-state system for real-time range visualization. Built a progression system where towers "level up" based on kill count, triggering <b>stat scaling</b> and <b>visual transformations</b> (sprite swaps) to reflect increased power.
 </div>
 <div style="background: #161b22; padding: 10px; border-radius: 8px; border-left: 5px solid #a5472d; margin-bottom: 10px;">
   <b>Grid & Placement Logic</b><br/>
